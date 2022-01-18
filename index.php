@@ -36,10 +36,10 @@
                                 <div class="row">
                                     <div class="col-md-10 col-md-offset-1">
                                         <div class="content">
-                                            <h3 data-animation="animated slideInRight">Welcome to buspro</h3>
-                                            <h1 data-animation="animated slideInLeft">We are <span>Providing</span> Best Business Service</h1>
-                                            <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
-                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a>
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Biosensor</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
                                         </div>
                                     </div>
                                 </div>
