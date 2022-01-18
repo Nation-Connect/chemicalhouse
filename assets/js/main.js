@@ -321,7 +321,7 @@
          ===============================================*/
         $('.portfolio-carousel').owlCarousel({
             loop: true,
-            margin: 3,
+            margin: 10,
             nav: true,
             navText: [
                 "<i class='fa fa-angle-left'></i>",
