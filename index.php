@@ -921,7 +921,7 @@
                 <!-- End Form -->
                 <!-- Start Thumb -->
                 <div class="col-md-6 thumb">
-                    <img src="assets/img/800x600.png" alt="Thumb">
+                    <img src="assets/img/contact.jpg" alt="Thumb">
                 </div>
                 <!-- End Thumb -->
             </div>
