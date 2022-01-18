@@ -1,6 +1,6 @@
 <footer class="bg-light">
     <!-- Start Footer Top -->
-    <div class="footer-top bg-gray">
+    <!-- <div class="footer-top bg-gray">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-4 logo">
@@ -20,7 +20,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- End Footer Top -->
     <div class="container">
         <div class="row">
