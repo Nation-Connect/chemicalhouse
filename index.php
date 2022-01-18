@@ -943,34 +943,34 @@
                 <div class="col-md-7 clients-box">
                     <div class="clients-items owl-carousel owl-theme text-center">
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/Sd Biosensor.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/VeinSpy_Advt.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/Sd Biosensor.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/VeinSpy_Advt.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/Sd Biosensor.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/VeinSpy_Advt.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/Sd Biosensor.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/VeinSpy_Advt.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/Sd Biosensor.jpg" alt="Clients"></a>
                         </div>
                         <div class="single-item">
-                            <a href="#"><img src="assets/img/150x80.png" alt="Clients"></a>
+                            <a href="#"><img src="assets/img/VeinSpy_Advt.jpg" alt="Clients"></a>
                         </div>
                     </div>
                 </div>
