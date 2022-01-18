@@ -411,7 +411,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/agappe_diagnostics.jpg" alt="thumb">
+                            <img src="assets/img/company/agappe_diagnostics.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/agappe_diagnostics.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Agappe</a></h4>
@@ -424,7 +424,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/alere.jpg" alt="thumb">
+                            <img src="assets/img/company/alere.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/alere.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Alere</a></h4>
@@ -437,7 +437,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/aventor.jpg" alt="thumb">
+                            <img src="assets/img/company/aventor.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/aventor.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Avantor</a></h4>
@@ -450,7 +450,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/beacon.jpg" alt="thumb">
+                            <img src="assets/img/company/beacon.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/beacon.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Beacon</a></h4>
@@ -463,7 +463,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/bioline.jpg" alt="thumb">
+                            <img src="assets/img/company/bioline.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/bioline.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Bioline</a></h4>
@@ -476,7 +476,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/biosystem.jpg" alt="thumb">
+                            <img src="assets/img/company/biosystem.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/biosystem.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">BioSystems</a></h4>
@@ -489,7 +489,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/dr. diaz.jpg" alt="thumb">
+                            <img src="assets/img/company/dr. diaz.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/dr. diaz.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Dr. Diaz</a></h4>
@@ -502,7 +502,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/dr. morepen.png" alt="thumb">
+                            <img src="assets/img/company/dr. morepen.png" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/dr. morepen.png" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Dr. Morepen</a></h4>
@@ -515,7 +515,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/erba.png" alt="thumb">
+                            <img src="assets/img/company/erba.png" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/erba.png" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Erba</a></h4>
@@ -528,7 +528,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/euro_diagnostics12.jpg" alt="thumb">
+                            <img src="assets/img/company/euro_diagnostics12.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/euro_diagnostics12.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Euro</a></h4>
@@ -541,7 +541,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/immunoshop.jpg" alt="thumb">
+                            <img src="assets/img/company/immunoshop.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/immunoshop.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Immunoshop</a></h4>
@@ -554,7 +554,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/Lilac logo.gif" alt="thumb">
+                            <img src="assets/img/company/Lilac logo.gif" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/Lilac logo.gif" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Lilac</a></h4>
@@ -567,7 +567,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/meril.png" alt="thumb">
+                            <img src="assets/img/company/meril.png" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/meril.png" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Meril</a></h4>
@@ -580,7 +580,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/ozone logo.jpg" alt="thumb">
+                            <img src="assets/img/company/ozone logo.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/ozone logo.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Ozomed</a></h4>
@@ -593,7 +593,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/rapid.gif" alt="thumb">
+                            <img src="assets/img/company/rapid.gif" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/rapid.gif" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Rapid</a></h4>
@@ -606,7 +606,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/reckon.jpg" alt="thumb">
+                            <img src="assets/img/company/reckon.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/reckon.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Reckon</a></h4>
@@ -619,7 +619,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/roche.gif" alt="thumb">
+                            <img src="assets/img/company/roche.gif" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/roche.gif" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Roche</a></h4>
@@ -632,7 +632,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/sd bisensor.jpg" alt="thumb">
+                            <img src="assets/img/company/sd bisensor.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/sd bisensor.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">SD Biosensor</a></h4>
@@ -645,7 +645,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/smd.png" alt="thumb">
+                            <img src="assets/img/company/smd.png" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/smd.png" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">SMD</a></h4>
@@ -658,7 +658,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/span.jpg" alt="thumb">
+                            <img src="assets/img/company/span.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/span.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Span</a></h4>
@@ -671,7 +671,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/tosoh.png" alt="thumb">
+                            <img src="assets/img/company/tosoh.png" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/tosoh.png" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Tosoh</a></h4>
@@ -684,7 +684,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/tulip.jpg" alt="thumb">
+                            <img src="assets/img/company/tulip.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/tulip.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Tulip Group</a></h4>
