@@ -372,7 +372,7 @@
             <div class="row">
                 <div class="col-md-8 col-md-offset-2">
                     <div class="site-heading text-center">
-                        <h2>Complete Cases</h2>
+                        <h2>Authorized Stockiest</h2>
                         <p>
                             While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
                         </p>
@@ -385,79 +385,313 @@
                 <div class="portfolio-items magnific-mix-gallery masonary portfolio-carousel owl-carousel owl-theme">
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/800x800.png" alt="thumb">
-                            <a href="assets/img/800x800.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <img src="assets/img/company/hemodiaz.jpg" alt="thumb">
+                            <a href="assets/img/company/hemodiaz.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
-                                <h4><a href="#">Startup Funding</a></h4>
-                                <div class="cat">
+                                <h4><a href="#">Hemodiaz</a></h4>
+                                <!-- <div class="cat">
                                     <span>Finance</span>
                                     <span>Assets</span>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/800x800.png" alt="thumb">
-                            <a href="assets/img/800x800.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <img src="assets/img/company/Horiba.jpg" alt="thumb">
+                            <a href="assets/img/company/Horiba.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
-                                <h4><a href="#">Accounting Advisory</a></h4>
-                                <div class="cat">
+                                <h4><a href="#">Horiba</a></h4>
+                                <!-- <div class="cat">
                                     <span>Finance</span>
                                     <span>Assets</span>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/800x800.png" alt="thumb">
-                            <a href="assets/img/800x800.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <img src="assets/img/company/agappe_diagnostics.jpg" alt="thumb">
+                            <a href="assets/img/company/agappe_diagnostics.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
-                                <h4><a href="#">Merger & Acquisition</a></h4>
-                                <div class="cat">
+                                <h4><a href="#">Agappe</a></h4>
+                                <!-- <div class="cat">
                                     <span>Finance</span>
                                     <span>Assets</span>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/800x800.png" alt="thumb">
-                            <a href="assets/img/800x800.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <img src="assets/img/company/alere.jpg" alt="thumb">
+                            <a href="assets/img/company/alere.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
-                                <h4><a href="#">Assets For Technology</a></h4>
-                                <div class="cat">
+                                <h4><a href="#">Alere</a></h4>
+                                <!-- <div class="cat">
                                     <span>Finance</span>
                                     <span>Assets</span>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/800x800.png" alt="thumb">
-                            <a href="assets/img/800x800.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <img src="assets/img/company/aventor.jpg" alt="thumb">
+                            <a href="assets/img/company/aventor.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
-                                <h4><a href="#">Business Matching</a></h4>
-                                <div class="cat">
+                                <h4><a href="#">Avantor</a></h4>
+                                <!-- <div class="cat">
                                     <span>Finance</span>
                                     <span>Assets</span>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/800x800.png" alt="thumb">
-                            <a href="assets/img/800x800.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <img src="assets/img/company/beacon.jpg" alt="thumb">
+                            <a href="assets/img/company/beacon.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
-                                <h4><a href="#">Startup Funding</a></h4>
-                                <div class="cat">
+                                <h4><a href="#">Beacon</a></h4>
+                                <!-- <div class="cat">
                                     <span>Finance</span>
                                     <span>Assets</span>
-                                </div>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/bioline.jpg" alt="thumb">
+                            <a href="assets/img/company/bioline.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Bioline</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/biosystem.jpg" alt="thumb">
+                            <a href="assets/img/company/biosystem.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">BioSystems</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/dr. diaz.jpg" alt="thumb">
+                            <a href="assets/img/company/dr. diaz.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Dr. Diaz</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/dr. morepen.png" alt="thumb">
+                            <a href="assets/img/company/dr. morepen.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Dr. Morepen</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/erba.png" alt="thumb">
+                            <a href="assets/img/company/erba.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Erba</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/euro_diagnostics12.jpg" alt="thumb">
+                            <a href="assets/img/company/euro_diagnostics12.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Euro</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/immunoshop.jpg" alt="thumb">
+                            <a href="assets/img/company/immunoshop.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Immunoshop</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/Lilac logo.gif" alt="thumb">
+                            <a href="assets/img/company/Lilac logo.gif" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Lilac</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/meril.png" alt="thumb">
+                            <a href="assets/img/company/meril.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Meril</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/ozone logo.jpg" alt="thumb">
+                            <a href="assets/img/company/ozone logo.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Ozomed</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/rapid.gif" alt="thumb">
+                            <a href="assets/img/company/rapid.gif" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Rapid</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/reckon.jpg" alt="thumb">
+                            <a href="assets/img/company/reckon.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Reckon</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/roche.gif" alt="thumb">
+                            <a href="assets/img/company/roche.gif" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Roche</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/sd bisensor.jpg" alt="thumb">
+                            <a href="assets/img/company/sd bisensor.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">SD Biosensor</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/smd.png" alt="thumb">
+                            <a href="assets/img/company/smd.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">SMD</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/span.jpg" alt="thumb">
+                            <a href="assets/img/company/span.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Span</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/tosoh.png" alt="thumb">
+                            <a href="assets/img/company/tosoh.png" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Tosoh</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pf-item">
+                        <div class="effect-left-swipe">
+                            <img src="assets/img/company/tulip.jpg" alt="thumb">
+                            <a href="assets/img/company/tulip.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
+                            <div class="icons">
+                                <h4><a href="#">Tulip Group</a></h4>
+                                <!-- <div class="cat">
+                                    <span>Finance</span>
+                                    <span>Assets</span>
+                                </div> -->
                             </div>
                         </div>
                     </div>
