@@ -385,7 +385,7 @@
                 <div class="portfolio-items magnific-mix-gallery masonary portfolio-carousel owl-carousel owl-theme">
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/hemodiaz.jpg" alt="thumb" style="height: 80px;">
+                            <img src="assets/img/company/hemodiaz.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/hemodiaz.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Hemodiaz</a></h4>
@@ -398,7 +398,7 @@
                     </div>
                     <div class="pf-item">
                         <div class="effect-left-swipe">
-                            <img src="assets/img/company/Horiba.jpg" alt="thumb" style="height: 80px;">
+                            <img src="assets/img/company/Horiba.jpg" alt="thumb" style="height: 150px;">
                             <a href="assets/img/company/Horiba.jpg" class="item popup-link"><i class="fa fa-plus"></i></a>
                             <div class="icons">
                                 <h4><a href="#">Horiba</a></h4>
