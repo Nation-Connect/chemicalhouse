@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Buspro - Multipurpose Business and Corporate Template">
+    <meta name="description" content="Chemical House">
 
     <!-- ========== Page Title ========== -->
-    <title>Buspro - Multipurpose Business and Corporate Template</title>
+    <title>Chemical House</title>
 
     <!-- ========== Favicon Icon ========== -->
     <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
