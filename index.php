@@ -55,10 +55,10 @@
                                 <div class="row">
                                     <div class="col-md-10 col-md-offset-1">
                                         <div class="content">
-                                            <h3 data-animation="animated slideInUp">Include more sales</h3>
-                                            <h1 data-animation="animated slideInDown">make unique <span>planning</span> for your business</h1>
-                                            <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
-                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a>
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Hemodiaz</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
                                         </div>
                                     </div>
                                 </div>
@@ -67,17 +67,169 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/2440x1578.png);"></div>
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/d.jpg);"></div>
                     <div class="box-table shadow dark">
                         <div class="box-cell">
                             <div class="container">
                                 <div class="row">
                                     <div class="col-md-10 col-md-offset-1">
                                         <div class="content">
-                                            <h3 data-animation="animated slideInLeft">More convenient than others</h3>
-                                            <h1 data-animation="animated slideInRight">Find Value And <span>Build</span> confidence</h1>
-                                            <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
-                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a>
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Lilac</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/e.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Horiba</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/f.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>SD Biosensor</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/g.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Beacon</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/h.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>SM Diagnostic</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/i.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Aventor</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/j.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Roche</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/k.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Dr. Diaz</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/banner/l.jpg);"></div>
+                    <div class="box-table shadow dark">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="content">
+                                            <h3 data-animation="animated slideInRight">Welcome to Chemical House</h3>
+                                            <h1 data-animation="animated slideInLeft"><span>Reckon Diagnostic</span></h1>
+                                            <!-- <a data-animation="animated slideInUp" class="btn btn-light effect btn-md" href="#">View Projects</a>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">Learn more</a> -->
                                         </div>
                                     </div>
                                 </div>
